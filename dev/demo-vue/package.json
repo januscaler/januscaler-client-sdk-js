@@ -9,9 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@januscaler/client-sdk-js": "file:../..",
     "@types/lodash": "^4.14.194",
     "aigle": "^1.14.1",
-    "janus_scaler_client": "file:../../client-sdk",
     "lodash": "^4.17.21",
     "vue": "^3.2.41",
     "vue-router": "^4.2.0",
