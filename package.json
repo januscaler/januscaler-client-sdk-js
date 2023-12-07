@@ -1,8 +1,7 @@
 {
-  "name": "janus_scaler_client_sdk",
-  "private": true,
+  "name": "@januscaler/client-sdk-js",
   "version": "1.0.0",
-  "description": "A simple and zero-opinion typescript starter template for building cross-platform command line applications.",
+  "description": "januscaler client sdk for javascript",
   "author": "Shivansh Talwar <shivanshtalwar0@gmail.com>",
   "keywords": [
     "typescript",

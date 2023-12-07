@@ -1,0 +1,24 @@
+{
+  "name": "januscaler-demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.194",
+    "aigle": "^1.14.1",
+    "janus_scaler_client": "file:../../client-sdk",
+    "lodash": "^4.17.21",
+    "vue": "^3.2.41",
+    "vue-router": "^4.2.0",
+    "webrtc-adapter": "^8.2.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.2.0",
+    "vite": "^3.2.3"
+  }
+}
