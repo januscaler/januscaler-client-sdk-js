@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "experimentalDecorators": true,
+    "noImplicitAny": true,
+    "module": "ES2022",
+    "allowSyntheticDefaultImports": true,
+    "target": "ES2015",
+    "declarationMap": true,
+    "declaration": true,
+    "esModuleInterop": true,
+    "allowJs": true,
+    "moduleResolution": "node",
+    "lib": ["ES5", "ES2015", "DOM", "ScriptHost"]
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+}

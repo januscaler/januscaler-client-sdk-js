@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "outDir": "./dist/",
+    "outDir": "dist",
     "experimentalDecorators": true,
     "noImplicitAny": true,
     "module": "ES2022",
