@@ -1,6 +1,6 @@
 {
     "name": "@januscaler/janus-js",
-    "repository":"https://github.com/januscaler/januscaler-client-sdk-js",
+    "repository":"https://github.com/januscaler/januscaler-js-sdk",
     "version": "1.0.0",
     "description": "scalable and battle tested wrapper around janusjs for janus-scaler engine providing typed and promisified version",
     "typings": "dist",

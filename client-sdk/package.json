@@ -1,6 +1,6 @@
 {
   "name": "@januscaler/client-sdk-js",
-  "repository":"https://github.com/januscaler/januscaler-client-sdk-js",
+  "repository":"https://github.com/januscaler/januscaler-js-sdk",
   "version": "1.0.0",
   "description": "januscaler client sdk for javascript",
   "author": "Shivansh Talwar <shivanshtalwar0@gmail.com>",
